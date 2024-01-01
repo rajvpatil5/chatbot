@@ -1,4 +1,3 @@
-import React from 'react';
 import botImage from '../assets/images/botImage.png';
 
 const Instructions = () => {
